@@ -7,7 +7,7 @@ HTML5 Engine
 ##Viewport
 Viewports are what the scenes render to
 ##Scene
-Scenes contain objects, they can be attached to viewports for display
+Scenes sprites, masks, they can be attached to viewports for display
 ###Objects
 +Sprites
 +Properties
